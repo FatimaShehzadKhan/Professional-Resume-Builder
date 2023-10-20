@@ -1,0 +1,31 @@
+.container{
+       padding: 90px 30px;
+       text-align: center;
+       width: 100%;
+       display: flex;
+       gap: 30px;
+       justify-content: space-evenly;
+       min-height: 85vh;
+       background-color: #ffeff2;
+    }
+
+.heading{
+    margin: 0 auto;
+    max-width: 50vw;
+    font-size: 3.1rem;
+    font-family: serif;
+    color: black;
+    font-weight: bolder;
+    letter-spacing: 1px;
+    line-height: 4.1rem;
+}
+.heading span{
+    background-clip: text;
+    background-image: linear-gradient(to right, #ff879d, #ee4b69, #ed143d);
+    color: transparent;
+}
+
+.right img{
+    width: 40vw;
+    /* height: 50vh; */
+}
