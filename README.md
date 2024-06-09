@@ -1,6 +1,6 @@
-# ResumeBuilder 🚀
+# Professional Resume Builder 🚀
 
-### **Project Description: Resume Builder**
+### **Project Description: **
 
 The "Resume Builder" project is a dynamic web application designed to help users craft professional resumes with ease. It seamlessly integrates a **React.js** frontend with a **Node.js** backend, creating a comprehensive and user-friendly experience. 📝✨
 
